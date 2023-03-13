@@ -11,9 +11,9 @@
   text-decoration: none;
   display: inline-flex;
   align-items: center;
-  overflow:hidden;
+  overflow: hidden;
   width: auto;
-  max-width: 33px; 
+  max-width: 33px;
   -webkit-transition: max-width 0.5s;
   -webkit-transition: padding-right 0.5s;
   transition: max-width 0.5s;
@@ -27,3 +27,4 @@
   white-space: nowrap;
   padding-right: 15px;
 }
+
